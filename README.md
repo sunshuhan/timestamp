@@ -14,6 +14,3 @@
 
     $ node server.js
 
-Example:
-https://timestamp-sunshuhan.c9users.io/May%2018%202016    
-https://timestamp-sunshuhan.c9users.io/1463529600

@@ -6,7 +6,7 @@ var routes = require('./app/routes/index.js');
 var app = express();
 //var port = process.env.PORT || 8080;
 routes(app);
-app.listen(8080,function(){
+app.listen(process.env.PORT||8080,function(){
     console.log("listening on port 8080......");
 });
 

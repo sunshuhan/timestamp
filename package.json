@@ -1,13 +1,17 @@
 {
-  "name": "timestamp freecodecamp",
+  "name": "sunshuhantest2",
   "version": "1.0.0",
   "description": "A freecodecamp project.",
   "main": "server.js",
+   "scripts": {
+  "start": "node server.js"
+  },
   "repository": "",
   "author": "sunshuhan",
   "dependencies": {
     "async": "~0.2.8",
-   "express": "4.13.4",
+    "express": "^4.12.4",
     "socket.io": "~0.9.14"
   }
+ 
 }
